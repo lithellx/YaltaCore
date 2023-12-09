@@ -11,12 +11,8 @@ YaltaCore is a game library automation application for school project.
 
 ## Authors
 
-[Furkan](https://github.com/frknsyll)
-
-[Alp](https://github.com/lithellx)
-
-[Arda](https://github.com/ardatasal)
-
-[Berkay](https://github.com/berkaypodak)
-
+[Furkan](https://github.com/frknsyll) 
+[Alp](https://github.com/lithellx) 
+[Arda](https://github.com/ardatasal) 
+[Berkay](https://github.com/berkaypodak) 
 [Sude](https://github.com/sdeondr09)
